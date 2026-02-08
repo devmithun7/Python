@@ -1,6 +1,6 @@
 from __future__ import annotations
 from dataclasses import dataclass
-from typing import Any, Iterable, Iterator, Optional, Tuple, List
+from typing import Any, Iterable, Iterator, Optional, List
 
 
 @dataclass
@@ -31,6 +31,8 @@ class SinglyLinkedList:
         self.tail: Optional[Node] = None
         self._size: int = 0
 
+        # "iterable" means "anything you can loop over" (list, tuple, string, range, generator, etc.).
+        # If the caller passes one, we append each of its values into this list.
         if iterable is not None:
             self.extend(iterable)
 
@@ -41,6 +43,7 @@ class SinglyLinkedList:
         return self._size
 
     def __iter__(self) -> Iterator[Any]:
+        # "yield" produces values one at a time; this makes the list usable in for-loops.
         cur = self.head
         while cur is not None:
             yield cur.value
@@ -71,6 +74,7 @@ class SinglyLinkedList:
         self._size = 0
 
     def extend(self, iterable: Iterable[Any]) -> None:
+        # This loops over any iterable (like list, string, range, generator, another linked list).
         for x in iterable:
             self.append(x)
 
