@@ -56,7 +56,7 @@ $$\text{Gross Profit} = \$96,000 - \$32,000 = \$64,000$$
 ### Operating Profit (EBIT)
 $$\text{Operating Profit} = \text{Revenue} - \text{Operating Costs}$$
 
-| Component | Definition | 
+| Component | Definition |
 |---|---|
 | **Revenue** | Total sales dollars |
 | **Operating Costs** | COGS + SG&A + R&D — all costs before interest and taxes |
@@ -70,7 +70,7 @@ $$\text{Operating Profit} = \$96,000 - \$74,000 = \$22,000$$
 ---
 
 ### Net Profit
-$$\text{Net Profit} = \text{Revenue} - \text{Total Expenses (including interest \& taxes)}$$
+$$\text{Net Profit} = \text{Revenue} - \text{Total Expenses (including interest and taxes)}$$
 
 | Component | Definition |
 |---|---|
@@ -566,7 +566,8 @@ $$\text{D/E} = \frac{\text{Total Debt}}{\text{Total Shareholders' Equity}}$$
 **Use case:** Credit analysis; evaluating capital structure risk; comparing leverage across peers.  
 **Example:**  
 Total Debt = $1,200,000 (bank loans + bonds); Equity = $800,000  
-$$\text{D/E} = \frac{\$1,200,000}{\$800,000} = 1.5 \quad \Rightarrow \text{There is \$1.50 of debt for every \$1 of equity}$$
+$$\text{D/E} = \frac{\$1,200,000}{\$800,000} = 1.5$$
+There is \$1.50 of debt for every \$1 of equity.
 
 ---
 
@@ -1104,7 +1105,7 @@ The price increase added $20K but volume loss cost $48K — the net effect is ne
 ---
 
 ### Revenue Growth Decomposition (3 drivers)
-$$\text{Revenue Growth} = \underbrace{\text{Price Growth}}_{\%} + \underbrace{\text{Volume Growth}}_{\%} + \underbrace{\text{Mix Shift}}_{\%}$$
+$$\text{Revenue Growth} = \underbrace{\text{Price Growth}}_{\text{(rate)}} + \underbrace{\text{Volume Growth}}_{\text{(units)}} + \underbrace{\text{Mix Shift}}_{\text{(product mix)}}$$
 
 | Driver | Definition |
 |---|---|
@@ -1179,7 +1180,8 @@ $$\text{ROAS} = \frac{\text{Revenue Attributable to Ad Spend}}{\text{Ad Spend}}$
 **Use case:** Comparing efficiency across ad channels (search, social, display).  
 **Example:**  
 Ad spend = $50,000; Attributed revenue = $200,000.  
-$$\text{ROAS} = \frac{\$200,000}{\$50,000} = 4.0\times \quad \Rightarrow \text{Every \$1 of ad spend returns \$4 in revenue}$$
+$$\text{ROAS} = \frac{\$200,000}{\$50,000} = 4.0\times$$
+Every \$1 of ad spend returns \$4 in revenue.
 But if gross margin is only 20%, gross profit = $40,000 < ad spend ($50,000) → still unprofitable.
 
 ---
