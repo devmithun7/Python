@@ -56,7 +56,7 @@ $$\text{Gross Profit} = \$96,000 - \$32,000 = \$64,000$$
 ### Operating Profit (EBIT)
 $$\text{Operating Profit} = \text{Revenue} - \text{Operating Costs}$$
 
-| Component | Definition |
+| Component | Definition | 
 |---|---|
 | **Revenue** | Total sales dollars |
 | **Operating Costs** | COGS + SG&A + R&D — all costs before interest and taxes |
