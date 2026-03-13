@@ -1134,6 +1134,7 @@ $$\Delta Q_{\text{break-even}} = \frac{-\Delta P}{\text{CM per Unit} + \Delta P}
 **Example:**  
 Current price = $25; Variable cost = $9; CM = $16. Considering a $3 price cut → new price $22, new CM = $13.  
 $$\Delta Q_{\text{break-even}} = \frac{-(-\$3)}{\$16 + (-\$3)} = \frac{\$3}{\$13} = 23.1\%$$
+
 You must sell at least **23.1% more units** just to break even on profit. If PED = −1.5 and the price cut is −12%, expected volume gain ≈ +18% — which falls short of 23.1%, so the price cut destroys profit.
 
 ---
@@ -1181,8 +1182,8 @@ $$\text{ROAS} = \frac{\text{Revenue Attributable to Ad Spend}}{\text{Ad Spend}}$
 **Example:**  
 Ad spend = $50,000; Attributed revenue = $200,000.  
 $$\text{ROAS} = \frac{\$200,000}{\$50,000} = 4.0\times$$
-Every \$1 of ad spend returns \$4 in revenue.
-But if gross margin is only 20%, gross profit = $40,000 < ad spend ($50,000) → still unprofitable.
+
+Every \$1 of ad spend returns \$4 in revenue. But if gross margin is only 20%, gross profit = \$40,000 < ad spend (\$50,000) → still unprofitable.
 
 ---
 
@@ -1215,6 +1216,7 @@ $$\text{Required Lift \%} = \frac{-\Delta\text{CM per Unit}}{\text{New CM per Un
 **Example:**  
 Normal price $25; Variable cost $9; CM = $16. Promotion offers $4 off → new price $21; new CM = $12.  
 $$\text{Required Lift} = \frac{\$4}{\$12} = 33.3\%$$
+
 The promotion must drive at least **33.3% more volume** to break even on profit. Pair this with your PED estimate to judge feasibility.
 
 ---
@@ -1322,7 +1324,7 @@ $$\Delta\text{Profit} = -\Delta\text{Cost per Unit} \times \text{Volume}$$
 
 | Component | Definition |
 |---|---|
-| **$\Delta$Cost per Unit** | Change in variable cost per unit (positive = cost increase, negative = saving) |
+| **ΔCost per Unit** | Change in variable cost per unit (positive = cost increase, negative = saving) |
 | **Volume** | Current units sold |
 
 **Interpretation:** A variable cost saving flows directly to profit (dollar for dollar) across all units sold. Fixed cost changes flow to profit in full regardless of volume.  
@@ -1330,6 +1332,7 @@ $$\Delta\text{Profit} = -\Delta\text{Cost per Unit} \times \text{Volume}$$
 **Example:**  
 A $1.50/unit increase in raw material costs; current volume = 80,000 units/year.  
 $$\Delta\text{Profit} = -\$1.50 \times 80,000 = -\$120,000/\text{year}$$
+
 To offset this, the company must either raise prices, cut other costs, or grow volume.
 
 ---
